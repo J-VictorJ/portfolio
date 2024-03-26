@@ -18,7 +18,7 @@ function ingles() {
     I sought to learn programming with people from other countries, where I greatly expanded this part of logical and problem solving.`;
 
     document.querySelector(".info-item:nth-child(1) span").textContent = "26 Dec 2002";
-    document.querySelector(".info-item:nth-child(6) span").textContent = "Systems Analysis and Development";
+    document.querySelector(".info-item:nth-child(6) span").textContent = "Software Engineering";
     document.querySelector(".info-item:nth-child(7) span").textContent = "Certainly";
 
     document.querySelector(".buttons .btn:nth-child(1)").textContent = "Download CV";
