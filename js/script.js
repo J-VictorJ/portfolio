@@ -1,4 +1,4 @@
-// Translate
+gen// Translate
 
 function portuguese() {
     // Home section
@@ -21,7 +21,7 @@ function portuguese() {
      Em resumo posso dizer que esses últimos dois anos foram muito produtivos para minha carreira profissional, busquei aprender a programar com pessoas de outros países, onde eu ampliei muito essa parte de lógica e resolução de problemas.`;
     
     document.querySelector(".info-item:nth-child(1) span").textContent = "26 Dez 2002";
-    document.querySelector(".info-item:nth-child(6) span").textContent = "ADS";
+    document.querySelector(".info-item:nth-child(6) span").textContent = "Engenharia de Software";
     document.querySelector(".info-item:nth-child(7) span").textContent = "Certamente";
 
     document.querySelector(".buttons .btn:nth-child(1)").textContent = "Baixar Currículo";
